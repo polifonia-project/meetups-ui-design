@@ -11,9 +11,9 @@ work-package:
 pilot: MEETUPS
 project: polifonia-project
 resource: https://github.com/polifonia-project/meetups-ui-design/blob/main/meetups-ui-initial-designs.pdf
-release-date:
-release-number:
-release-link:
+release-date: 17/04/2023
+release-number: v0.1.0
+release-link: https://github.com/polifonia-project/meetups-ui-design/releases/tag/v0.1.0
 doi:
-changelog:
+changelog: https://github.com/polifonia-project/meetups-ui-design/releases/tag/v0.1.0
 ---
