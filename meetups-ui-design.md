@@ -16,4 +16,11 @@ release-number: v0.1.0
 release-link: https://github.com/polifonia-project/meetups-ui-design/releases/tag/v0.1.0
 doi:
 changelog: https://github.com/polifonia-project/meetups-ui-design/releases/tag/v0.1.0
+license:
+  - Apache-2.0
+copyright: "Copyright (c) 2023 The Open University"
+contributors:
+  - Jason Carvalho <https://github.com/JaseMK>
+  - Alba Morales-Tirado <https://github.com/albamoralest>
+  - Enrico Daga <https://github.com/enridaga>
 ---
