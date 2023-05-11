@@ -7,7 +7,13 @@ image:
 logo:
 demo:
 work-package: 
-- WP5
+  - WP5
 pilot: MEETUPS
 project: polifonia-project
+resource: 
+release-date:
+release-number:
+release-link:
+doi:
+changelog:
 ---
