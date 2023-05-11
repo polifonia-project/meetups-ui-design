@@ -10,7 +10,7 @@ work-package:
   - WP5
 pilot: MEETUPS
 project: polifonia-project
-resource: 
+resource: https://github.com/polifonia-project/meetups-ui-design/blob/main/meetups-ui-initial-designs.pdf
 release-date:
 release-number:
 release-link:
