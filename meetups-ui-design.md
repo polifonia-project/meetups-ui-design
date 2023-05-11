@@ -23,4 +23,7 @@ contributors:
   - Jason Carvalho <https://github.com/JaseMK>
   - Alba Morales-Tirado <https://github.com/albamoralest>
   - Enrico Daga <https://github.com/enridaga>
+related-components:
+  - informed-by:
+    - Ortenz
 ---
